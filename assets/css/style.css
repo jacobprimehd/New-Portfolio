@@ -3,7 +3,6 @@ body, html, #contents{
     height: 100%;
     margin: 0;
     padding: 0;
-    background-color: black;
 }
 .s1{
     background: url("../images/i1.jpg") no-repeat;
