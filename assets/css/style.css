@@ -6,8 +6,7 @@ body, html, #contents{
     background-color: black;
 }
 .s1{
-    background: url(../Images/i1.jpg) no-repeat;
-    /* background-color: darkgray; */
+    background: url("../images/i1.jpg") no-repeat;
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
@@ -19,8 +18,7 @@ body, html, #contents{
 
 }
 .s2{
-    background: url(../Images/i2.jpg) no-repeat;
-    /* background-color: grey; */
+    background: url("../images/i2.jpg") no-repeat;
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
@@ -31,8 +29,7 @@ body, html, #contents{
     align-items: center;
 }
 .s3{
-    background: url(../Images/i3.jpg) no-repeat;
-    /* background-color: darkgrey; */
+    background: url("../images/i3.jpg") no-repeat;
     background-size: cover;
     background-attachment: fixed;
     width: 100%;
